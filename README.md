@@ -1,2 +1,2 @@
-#GIT Test
+#GIT_Test
 This is my GitTest
